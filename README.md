@@ -1,3 +1,7 @@
+![Screenshot (241)](https://github.com/user-attachments/assets/3f5c6de8-2e26-4e6e-a434-21cd4928f651)
+
+![Screenshot (242)](https://github.com/user-attachments/assets/c3d2a05e-0e9f-4c9c-8e69-8d7966a865f3)
+
 As a customer, I want to update the number of items in my cart, so that I can adjust what I am buying. (ECSA-10) 
  [ECSA-51] Perform code review Created: 06/Sep/24  Updated: 07/Sep/24 
 
